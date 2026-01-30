@@ -84,13 +84,6 @@ git clone [https://github.com/DEIN_USERNAME/ReelRename.git](https://github.com/D
 cd ReelRename
 python cinematch.py
 
-
-Eigene .exe bauen
-
-pip install pyinstaller
-pyinstaller --onefile --noconsole --name "ReelRename" --icon="ReelRename.ico" cinematch.py
-
-
 📝 Lizenz
 
 Dieses Projekt ist unter der MIT Lizenz veröffentlicht.
