@@ -1,6 +1,6 @@
 # ReelRename
 
-<img src="ReelRename%20Logo%20(1).png" width="60" align="center"> ReelRename
+<img src="ReelRename%20Logo%20.png" width="60" align="center"> ReelRename
 
 ReelRename ist ein benutzerfreundliches Tool für Windows, um deine Film- und Seriensammlung automatisch zu organisieren. Es nutzt die Datenbank von TMDB, um korrekte Titel, Episodennummern und Veröffentlichungsjahre zu finden und deine Dateien sauber umzubenennen.
 
