@@ -66,21 +66,6 @@ Da ich das Tool in meiner Freizeit entwickle, würde ich mich sehr über einen K
 
 Hier klicken um zu spenden
 
-💻 Für Entwickler (Python Source)
-
-Falls du den Quellcode nutzen oder weiterentwickeln möchtest, kannst du das Projekt auch manuell ausführen.
-
-Voraussetzung
-
-Python 3.x installiert
-
-Bibliotheken installieren: pip install pillow
-
-Starten
-
-git clone [https://github.com/DEIN_USERNAME/ReelRename.git](https://github.com/DEIN_USERNAME/ReelRename.git)
-cd ReelRename
-python cinematch.py
 
 📝 Lizenz
 
