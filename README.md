@@ -1,5 +1,7 @@
 <img src="ReelRename_Logo.png" width="60" align="center" style="vertical-align: middle;"> ReelRename
 
+🌍 Languages: Scroll down for English, French & Spanish instructions.
+
 ReelRename ist ein benutzerfreundliches Tool für Windows, um deine Film- und Seriensammlung automatisch zu organisieren. Es nutzt die Datenbank von TMDB, um korrekte Titel, Episodennummern und Veröffentlichungsjahre zu finden und deine Dateien sauber umzubenennen.
 
 ✨ Funktionen
@@ -60,7 +62,8 @@ Vorschau & Start: Überprüfe die geplante Umbenennung in der Liste und klicke a
 Gefällt dir ReelRename? Hilft es dir, deine Sammlung sauber zu halten?
 Da ich das Tool in meiner Freizeit entwickle, würde ich mich sehr über einen Kaffee freuen!
 
-Hier klicken um zu spenden
+
+Link: https://coindrop.to/reelrename
 
 <details>
 <summary><strong>🇬🇧 English Description (Click to expand)</strong></summary>
@@ -126,8 +129,6 @@ Preview & Start: Check the planned renaming in the list and click "START RENAME"
 
 Do you like ReelRename? Does it help keep your collection clean?
 Since I develop this tool in my free time, I would be very happy about a coffee!
-
-Click here to donate
 
 </details>
 
@@ -196,8 +197,6 @@ Aperçu et Démarrage : Vérifiez le renommage prévu dans la liste et cliquez s
 Vous aimez ReelRename ? Cela vous aide-t-il à garder votre collection propre ?
 Comme je développe cet outil sur mon temps libre, je serais très heureux si vous m'offriez un café !
 
-Cliquez ici pour faire un don
-
 </details>
 
 <details>
@@ -265,12 +264,10 @@ Vista Previa e Inicio: Verifica el renombrado planeado en la lista y haz clic en
 ¿Te gusta ReelRename? ¿Te ayuda a mantener tu colección limpia?
 Dado que desarrollo esta herramienta en mi tiempo libre, ¡me encantaría que me invitaras a un café!
 
-Haz clic aquí para donar
-
 </details>
 
 📝 Lizenz
 
 Dieses Projekt ist unter der MIT Lizenz veröffentlicht.
 
-Developed by Schlicki with support from Gemini
+Developed by Schlicki
